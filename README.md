@@ -11,6 +11,12 @@ A React-based web application for labeling floor images to help build smarter fa
 - **Responsive Design**: Works on desktop and mobile devices
 - **Modern UI**: Built with Tailwind CSS and Framer Motion animations
 
+## Screenshots
+
+![alt text](screenshots/Full.png)
+![alt text](screenshots/InGame.png)
+![alt text](screenshots/GameOver.png)
+
 ## Tech Stack
 
 - **React 18** with TypeScript
